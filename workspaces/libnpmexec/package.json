@@ -49,26 +49,26 @@
     ]
   },
   "devDependencies": {
-    "@npmcli/eslint-config": "^4.0.0",
+    "@npmcli/eslint-config": "^4.0.4",
     "@npmcli/mock-registry": "^1.0.0",
     "@npmcli/template-oss": "4.19.0",
-    "bin-links": "^4.0.1",
+    "bin-links": "^4.0.4",
     "chalk": "^5.2.0",
     "just-extend": "^6.2.0",
     "just-safe-set": "^4.2.1",
-    "tap": "^16.3.8"
+    "tap": "^16.3.10"
   },
   "dependencies": {
     "@npmcli/arborist": "^7.2.0",
-    "@npmcli/run-script": "^7.0.1",
-    "ci-info": "^3.7.1",
-    "npm-package-arg": "^11.0.1",
+    "@npmcli/run-script": "^7.0.4",
+    "ci-info": "^3.9.0",
+    "npm-package-arg": "^11.0.2",
     "npmlog": "^7.0.1",
-    "pacote": "^17.0.4",
+    "pacote": "^17.0.7",
     "proc-log": "^3.0.0",
     "read": "^2.0.0",
     "read-package-json-fast": "^3.0.2",
-    "semver": "^7.3.7",
+    "semver": "^7.6.2",
     "walk-up-path": "^3.0.1"
   },
   "templateOSS": {
